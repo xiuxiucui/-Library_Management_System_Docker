@@ -17,4 +17,4 @@ Prior to running this submission on your local machine, please ensure that the f
     ```shell
     docker compose up
     ```
-4. Once both service has been initialized and running, go to http://localhost:3000
+4. Once both service has been initialized and running, go to http://localhost:80
